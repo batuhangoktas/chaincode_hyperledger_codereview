@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperledger.fabric.samples.assettransfer.AssetTest$Equality" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-05-04T22:33:35" hostname="ip-172-31-11-241" time="0.163">
+  <properties/>
+  <testcase name="handlesOtherObjects()" classname="org.hyperledger.fabric.samples.assettransfer.AssetTest$Equality" time="0.142"/>
+  <testcase name="isReflexive()" classname="org.hyperledger.fabric.samples.assettransfer.AssetTest$Equality" time="0.003"/>
+  <testcase name="isTransitive()" classname="org.hyperledger.fabric.samples.assettransfer.AssetTest$Equality" time="0.002"/>
+  <testcase name="handlesInequality()" classname="org.hyperledger.fabric.samples.assettransfer.AssetTest$Equality" time="0.001"/>
+  <testcase name="isSymmetric()" classname="org.hyperledger.fabric.samples.assettransfer.AssetTest$Equality" time="0.003"/>
+  <testcase name="handlesNull()" classname="org.hyperledger.fabric.samples.assettransfer.AssetTest$Equality" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperledger.fabric.samples.assettransfer.AssetTransferTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-05-04T22:33:35" hostname="ip-172-31-11-241" time="1.2">
+  <properties/>
+  <testcase name="invokeGetAllAssetsTransaction()" classname="org.hyperledger.fabric.samples.assettransfer.AssetTransferTest" time="1.13"/>
+  <testcase name="invokeInitLedgerTransaction()" classname="org.hyperledger.fabric.samples.assettransfer.AssetTransferTest" time="0.048"/>
+  <testcase name="invokeUnknownTransaction()" classname="org.hyperledger.fabric.samples.assettransfer.AssetTransferTest" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
